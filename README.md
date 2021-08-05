@@ -11,3 +11,7 @@
                 contribution to the success of the company.</h3>
 
 <br>
+
+
+![](https://komarev.com/ghpvc/?username=batinay1337&color=444bff)
+<hr>
