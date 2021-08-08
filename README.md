@@ -22,7 +22,6 @@
 <a href="https://batinay.medium.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/195px-Medium_logo_Monogram.svg.png" alt="bleedeleventh" height="40" width="40" /></a>
 </p>
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
