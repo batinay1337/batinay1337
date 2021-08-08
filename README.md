@@ -38,7 +38,7 @@
     
     
     
-    </details>
+    
 
 <p align="center">
 <img src="https://spotify1337.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
