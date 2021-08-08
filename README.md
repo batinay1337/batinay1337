@@ -41,5 +41,5 @@
     
 
 <p align="center">
-[<img src="https://novatorem-rho-rouge.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/x4oldjhhy8z0992gtlsm5cpjh)
+<img src="https://novatorem-rho-rouge.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />(https://open.spotify.com/user/x4oldjhhy8z0992gtlsm5cpjh)
 </p>
