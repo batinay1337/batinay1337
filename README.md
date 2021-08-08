@@ -31,9 +31,10 @@
 
 <p align="center">
 	<a href="https://github.com/batinay1337">
-		  
+		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=batinay1337&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="batinay1337"/>
 		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=batinay1337&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="batinay1337"/>
 	</a>
+</p>
     
     
     
