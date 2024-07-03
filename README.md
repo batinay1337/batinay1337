@@ -1,7 +1,7 @@
 ![batinayuniverse](https://res.cloudinary.com/batinay1337/image/upload/v1628121608/batinayuniverse_ctnrmd.jpg)
 
 <h1 align="center">Hi 👋, I'm Batınay</h1>
-<h3 align="left">I’m a CS Engineering Student based in Izmir, Turkey.</h3>
+<h3 align="left">I’m a iOS Developer based in Izmir, Turkey.</h3>
     
 <h3 align="left">
                     I'm interested in Swift. iOS Development is the topic I want to continue
